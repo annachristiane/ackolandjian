@@ -1,0 +1,1 @@
+x=input('Please enter the number of the students')

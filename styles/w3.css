@@ -179,7 +179,7 @@ th, td {
 }
 
 .pagination a.active {
-  background-color: #4CAF50;
+  background-color: #009688;
   color: white;
   border-radius: 5px;
 }

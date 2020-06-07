@@ -8,59 +8,189 @@
 
 
 <url>
-  <loc>http://www.ackolandjian.tk/</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/index.html</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/index.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/KhalilKhoury.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/about.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/RAJAA.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/resume.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/AdvancedPython.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/certificates.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/Innovation.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/portfolio.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/Django.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/contact.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/MLandAI.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
+  <loc>https://www.ackolandjian.tk/assets/docs/ACKCVENGLISH.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/DataSciencesteps.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.ackolandjian.tk/assets/docs/KhalilKhoury.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/Google_Cloud_ML.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.ackolandjian.tk/assets/docs/RAJAA.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.ackolandjian.tk/docs/HultPrize2ndPlace.pdf</loc>
-  <lastmod>2020-05-25T11:18:00+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.ackolandjian.tk/assets/docs/AdvancedPython.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/assets/docs/MLandAI.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/assets/docs/Innovation.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/assets/docs/Django.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/assets/docs/HultPrize2ndPlace.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/assets/docs/DataSciencesteps.pdf</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-aes.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-sensors.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-vision.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-Django.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-ref.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-insta.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-auto.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-hvac.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-mnist.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-vhdl.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-git.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-sql.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-chemistry.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-transpose.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-finite.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-lineareqts.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-children.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-cs.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-book.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-starsandA.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ackolandjian.tk/portfolio-details-optics.html</loc>
+  <lastmod>2020-06-07T11:56:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

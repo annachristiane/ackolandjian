@@ -446,13 +446,22 @@ button.submit {
   margin: 10px 0 0 0;
   font-size: 22px;
 }
+#hero p {
+  color: #fff;
+}
 
 @media screen and (max-width: 600px) {
 #hero h1{
 	color: #000;
+	text-align: center;
 }
 #hero h2{
 	color: #000;
+	text-align: center;
+}
+#hero p{
+	color: #000;
+	text-align: center;
 }
 
 #hero {
